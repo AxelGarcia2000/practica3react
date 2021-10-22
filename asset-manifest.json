@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/practica3react/static/css/main.4d5e2fc0.chunk.css",
+    "main.js": "/practica3react/static/js/main.087e793a.chunk.js",
+    "main.js.map": "/practica3react/static/js/main.087e793a.chunk.js.map",
+    "runtime-main.js": "/practica3react/static/js/runtime-main.fff82b6c.js",
+    "runtime-main.js.map": "/practica3react/static/js/runtime-main.fff82b6c.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/practica3react/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.2acfc7aa.chunk.js": "/practica3react/static/js/2.2acfc7aa.chunk.js",
+    "static/js/2.2acfc7aa.chunk.js.map": "/practica3react/static/js/2.2acfc7aa.chunk.js.map",
+    "static/js/3.b4653f5b.chunk.js": "/practica3react/static/js/3.b4653f5b.chunk.js",
+    "static/js/3.b4653f5b.chunk.js.map": "/practica3react/static/js/3.b4653f5b.chunk.js.map",
+    "index.html": "/practica3react/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/practica3react/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.4d5e2fc0.chunk.css.map": "/practica3react/static/css/main.4d5e2fc0.chunk.css.map",
+    "static/js/2.2acfc7aa.chunk.js.LICENSE.txt": "/practica3react/static/js/2.2acfc7aa.chunk.js.LICENSE.txt",
+    "static/media/logomercado.d97f0ec3.jpg": "/practica3react/static/media/logomercado.d97f0ec3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fff82b6c.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.2acfc7aa.chunk.js",
+    "static/css/main.4d5e2fc0.chunk.css",
+    "static/js/main.087e793a.chunk.js"
+  ]
+}
